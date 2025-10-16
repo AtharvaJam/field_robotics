@@ -1,0 +1,6 @@
+[submodule "dead_reckoning"]
+	path = dead_reckoning
+	url = https://github.com/AtharvaJam/dead_reckoning.git
+[submodule "Monocular-RTAB"]
+	path = Monocular-RTAB
+	url = https://github.com/AtharvaJam/Monocular-RTAB.git
